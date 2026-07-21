@@ -58,3 +58,19 @@ Nepali calendar and utility platform.
 - 📧 Email: sudipsherpa333@gmail.com
 
 Thanks for visiting my profile! ⭐
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sudipr0&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipr0&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sudipr0&theme=tokyonight&hide_border=true"/>
+
+</p>
