@@ -19,74 +19,44 @@ Building cloud-native infrastructure, CI/CD pipelines, and scalable applications
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 BCA Student from Nepal
-- 🚀 Transitioning from **MERN Stack Development** to **DevOps Engineering**
+- 🎓 BCA Student
+- 💻 Transitioning from **MERN Stack Development** to **DevOps Engineering**
 - 🐧 Passionate about Linux, Cloud Infrastructure, Automation, and Open Source
-- 🌱 Currently learning **Kubernetes, Terraform, AWS, Monitoring, and CI/CD**
-- 💼 Open to **Junior DevOps** and **Platform Engineering** opportunities
+- 🚀 Building production-ready projects while learning modern DevOps practices
+- 🌱 Currently exploring Kubernetes, Terraform, AWS, Monitoring, and CI/CD
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-### DevOps
-
-- Linux
-- Docker
-- Docker Compose
-- Kubernetes
-- Terraform
-- GitHub Actions
-- Nginx
-- AWS
-
-### Backend
-
-- Node.js
-- Express.js
-- MongoDB
-
-### Frontend
-
-- React
-- TypeScript
-- Tailwind CSS
-- Vite
-
-### Tools
-
-- Git
-- GitHub
-- VS Code
-- Bash
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform,aws,git,github,githubactions,nginx,nodejs,react,mongodb,ts,js,vscode" />
+</p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ### 🏠 LookRooms
-
-Production-ready MERN room rental platform with authentication, filtering, responsive UI, and Docker support.
+A full-stack MERN room rental platform with authentication, filtering, and modern UI.
 
 ### 📄 AI Resume Builder & Analyzer
-
-AI-powered resume builder with resume analysis and modern React frontend.
+AI-powered resume builder and resume analysis platform.
 
 ### 🖥️ Server Health Monitor
-
-Linux system monitoring toolkit written in Bash for CPU, RAM, disk, and service monitoring.
+Linux monitoring toolkit built with Bash for system resource monitoring and automation.
 
 ### 🇳🇵 NepaliDateHub
-
-Utility platform for Nepali calendar conversion and date tools.
+A collection of Nepali calendar utilities and date conversion tools.
 
 ---
 
-# 🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Kubernetes
+- Docker Compose
 - Terraform
 - AWS
 - GitHub Actions
@@ -97,10 +67,11 @@ Utility platform for Nepali calendar conversion and date tools.
 
 ---
 
-# 🌐 Connect
+## 📫 Connect With Me
 
-- 🌍 Portfolio: **https://sudipsherpa.com.np**
-- 📧 Email: **sudipsherpa333@gmail.com**
+🌐 **Portfolio:** https://sudipsherpa.com.np
+
+📧 **Email:** sudipsherpa333@gmail.com
 
 ---
 
