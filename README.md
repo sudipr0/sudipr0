@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi 👋, I'm Sudip Sherpa
 
-<!--
-**sudipr0/sudipr0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### DevOps Engineer
 
-Here are some ideas to get you started:
+**Linux • Docker • Kubernetes • Terraform • AWS**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building cloud-native infrastructure, CI/CD pipelines, and scalable applications.
+
+🚀 Open to **Junior DevOps**, **Platform Engineering**, and **Cloud** opportunities.
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 BCA Student
+- 💻 Former MERN Stack Developer transitioning into DevOps
+- 🐧 Passionate about Linux, Cloud, Automation, and Infrastructure
+- 🌱 Currently learning Kubernetes, Terraform, AWS, and Monitoring
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+- JavaScript
+- TypeScript
+- Bash
+
+### Frontend
+- React
+- Vite
+- Tailwind CSS
+
+### Backend
+- Node.js
+- Express.js
+- MongoDB
+
+### DevOps
+- Linux
+- Docker
+- Docker Compose
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Nginx
+- Git
+
+---
+
+## 🚀 Featured Projects
+
+### 🏠 LookRooms
+A MERN-based room rental platform.
+
+### 📄 AI Resume Builder & Analyzer
+AI-powered resume builder with resume analysis.
+
+### 🖥 Server Health Monitor
+Linux monitoring and automation using Shell scripting.
+
+### 🇳🇵 NepaliDateHub
+Nepali calendar and utility platform.
+
+---
+
+## 🌱 Currently Learning
+
+- Kubernetes
+- Terraform
+- AWS
+- Prometheus
+- Grafana
+- Helm
+- DevSecOps
+
+---
+
+## 📫 Connect
+
+- 📧 Email: sudipsherpa333@gmail.com
+
+Thanks for visiting my profile! ⭐
