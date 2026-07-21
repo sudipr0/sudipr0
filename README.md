@@ -21,32 +21,9 @@ Building cloud-native infrastructure, CI/CD pipelines, and scalable applications
 
 ## 🛠 Tech Stack
 
-### Languages
-- JavaScript
-- TypeScript
-- Bash
-
-### Frontend
-- React
-- Vite
-- Tailwind CSS
-
-### Backend
-- Node.js
-- Express.js
-- MongoDB
-
-### DevOps
-- Linux
-- Docker
-- Docker Compose
-- Kubernetes
-- Terraform
-- GitHub Actions
-- Nginx
-- Git
-
----
+<p align="center">
+<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,bash,git,github,githubactions,nginx,nodejs,react,mongodb,ts,js,vscode" />
+</p>
 
 ## 🚀 Featured Projects
 
