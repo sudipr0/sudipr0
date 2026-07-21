@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sudip Sherpa</h1>
+<h1 align="center">Hi 👋 I'm Sudip Sherpa</h1>
 
 <h3 align="center">
-DevOps Engineer • Linux • Docker • Kubernetes • Terraform • AWS
+DevOps Engineer | Linux • Docker • Kubernetes • Terraform • AWS
 </h3>
 
 <p align="center">
@@ -9,57 +9,84 @@ Building cloud-native infrastructure, CI/CD pipelines, and scalable applications
 </p>
 
 <p align="center">
-<a href="https://sudipsherpa.com.np" target="_blank">
-<img src="https://img.shields.io/badge/🌐_Portfolio-sudipsherpa.com.np-blue?style=for-the-badge" />
+<a href="https://sudipsherpa.com.np">
+<img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="mailto:sudipsherpa333@gmail.com">
-<img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
-</a>
-<a href="https://github.com/sudipr0">
-<img src="https://img.shields.io/github/followers/sudipr0?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🎓 BCA Student
-- 💻 Transitioning from **MERN Stack Development** to **DevOps Engineering**
+- 🎓 BCA Student from Nepal
+- 🚀 Transitioning from **MERN Stack Development** to **DevOps Engineering**
 - 🐧 Passionate about Linux, Cloud Infrastructure, Automation, and Open Source
-- 🚀 Building production-ready projects while learning modern DevOps practices
-- 🌱 Currently exploring Kubernetes, Terraform, AWS, Monitoring, and CI/CD
+- 🌱 Currently learning **Kubernetes, Terraform, AWS, Monitoring, and CI/CD**
+- 💼 Open to **Junior DevOps** and **Platform Engineering** opportunities
 
 ---
 
-## 🛠 Tech Stack
+# 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform,aws,git,github,githubactions,nginx,nodejs,react,mongodb,ts,js,vscode" />
-</p>
+### DevOps
+
+- Linux
+- Docker
+- Docker Compose
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Nginx
+- AWS
+
+### Backend
+
+- Node.js
+- Express.js
+- MongoDB
+
+### Frontend
+
+- React
+- TypeScript
+- Tailwind CSS
+- Vite
+
+### Tools
+
+- Git
+- GitHub
+- VS Code
+- Bash
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🏠 LookRooms
-A full-stack MERN room rental platform with authentication, filtering, and modern UI.
+
+Production-ready MERN room rental platform with authentication, filtering, responsive UI, and Docker support.
 
 ### 📄 AI Resume Builder & Analyzer
-AI-powered resume builder and resume analysis platform.
+
+AI-powered resume builder with resume analysis and modern React frontend.
 
 ### 🖥️ Server Health Monitor
-Linux monitoring toolkit built with Bash for system resource monitoring and automation.
+
+Linux system monitoring toolkit written in Bash for CPU, RAM, disk, and service monitoring.
 
 ### 🇳🇵 NepaliDateHub
-A collection of Nepali calendar utilities and date conversion tools.
+
+Utility platform for Nepali calendar conversion and date tools.
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Kubernetes
-- Docker Compose
 - Terraform
 - AWS
 - GitHub Actions
@@ -70,11 +97,10 @@ A collection of Nepali calendar utilities and date conversion tools.
 
 ---
 
-## 📫 Connect With Me
+# 🌐 Connect
 
-🌐 **Portfolio:** https://sudipsherpa.com.np
-
-📧 **Email:** sudipsherpa333@gmail.com
+- 🌍 Portfolio: **https://sudipsherpa.com.np**
+- 📧 Email: **sudipsherpa333@gmail.com**
 
 ---
 
