@@ -1,51 +1,68 @@
-# Hi 👋, I'm Sudip Sherpa
+<h1 align="center">Hi 👋, I'm Sudip Sherpa</h1>
 
-### DevOps Engineer
+<h3 align="center">
+DevOps Engineer • Linux • Docker • Kubernetes • Terraform • AWS
+</h3>
 
-**Linux • Docker • Kubernetes • Terraform • AWS**
-
+<p align="center">
 Building cloud-native infrastructure, CI/CD pipelines, and scalable applications.
+</p>
 
-🚀 Open to **Junior DevOps**, **Platform Engineering**, and **Cloud** opportunities.
+<p align="center">
+<a href="https://sudipsherpa.com.np" target="_blank">
+<img src="https://img.shields.io/badge/🌐_Portfolio-sudipsherpa.com.np-blue?style=for-the-badge" />
+</a>
+<a href="mailto:sudipsherpa333@gmail.com">
+<img src="https://img.shields.io/badge/Email-Gmail-red?style=for-the-badge&logo=gmail" />
+</a>
+<a href="https://github.com/sudipr0">
+<img src="https://img.shields.io/github/followers/sudipr0?style=for-the-badge&logo=github" />
+</a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 BCA Student
-- 💻 Former MERN Stack Developer transitioning into DevOps
-- 🐧 Passionate about Linux, Cloud, Automation, and Infrastructure
-- 🌱 Currently learning Kubernetes, Terraform, AWS, and Monitoring
+- 💻 Transitioning from **MERN Stack Development** to **DevOps Engineering**
+- 🐧 Passionate about Linux, Cloud Infrastructure, Automation, and Open Source
+- 🚀 Building production-ready projects while learning modern DevOps practices
+- 🌱 Currently exploring Kubernetes, Terraform, AWS, Monitoring, and CI/CD
 
 ---
 
 ## 🛠 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,terraform,aws,bash,git,github,githubactions,nginx,nodejs,react,mongodb,ts,js,vscode" />
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform,aws,git,github,githubactions,nginx,nodejs,react,mongodb,ts,js,vscode" />
 </p>
+
+---
 
 ## 🚀 Featured Projects
 
 ### 🏠 LookRooms
-A MERN-based room rental platform.
+A full-stack MERN room rental platform with authentication, filtering, and modern UI.
 
 ### 📄 AI Resume Builder & Analyzer
-AI-powered resume builder with resume analysis.
+AI-powered resume builder and resume analysis platform.
 
-### 🖥 Server Health Monitor
-Linux monitoring and automation using Shell scripting.
+### 🖥️ Server Health Monitor
+Linux monitoring toolkit built with Bash for system resource monitoring and automation.
 
 ### 🇳🇵 NepaliDateHub
-Nepali calendar and utility platform.
+A collection of Nepali calendar utilities and date conversion tools.
 
 ---
 
 ## 🌱 Currently Learning
 
 - Kubernetes
+- Docker Compose
 - Terraform
 - AWS
+- GitHub Actions
 - Prometheus
 - Grafana
 - Helm
@@ -53,22 +70,12 @@ Nepali calendar and utility platform.
 
 ---
 
-## 📫 Connect
+## 📫 Connect With Me
 
-- 📧 Email: sudipsherpa333@gmail.com
+🌐 **Portfolio:** https://sudipsherpa.com.np
 
-Thanks for visiting my profile! ⭐
+📧 **Email:** sudipsherpa333@gmail.com
 
+---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sudipr0&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudipr0&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudipr0&theme=tokyonight&hide_border=true" />
-</p>
+⭐ Thanks for visiting my profile!
