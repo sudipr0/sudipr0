@@ -1,192 +1,257 @@
 <h1 align="center">Hi 👋 I'm Sudip Sherpa</h1>
 
-<h3 align="center">
-Software Engineering × DevOps | Cloud • Linux • Docker • CI/CD • DevSecOps
-</h3>
+<p align="center">
+<strong>Software Engineering × DevOps</strong>
+</p>
 
 <p align="center">
-BCA student building practical software, infrastructure, automation, and cloud-focused systems.
+Building and deploying practical software systems with a growing focus on Linux, containers, CI/CD, cloud infrastructure, and DevSecOps.
 </p>
 
 <p align="center">
 <a href="https://sudipsherpa.com.np">
-<img src="https://img.shields.io/badge/Portfolio-Visit_Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-<a href="mailto:sudipsherpa333@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Portfolio-sudipsherpa.com.np-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/sudip-sherpa-a83b4a282/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Sudip%20Sherpa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:sudipsherpa333@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </p>
 
----
+👨‍💻 About
 
-## 👨‍💻 About Me
+I'm a BCA student at Tribhuvan University focused on the intersection of software engineering and DevOps.
 
-I'm a **BCA student and software engineer focused on DevOps, cloud infrastructure, automation, and secure software delivery**.
+My background started with full-stack development and gradually moved toward the systems behind applications — Linux environments, deployment, automation, databases, CI/CD, containers, reliability, and security.
 
-My work sits between application development and infrastructure engineering — building software, containerizing services, automating delivery, and learning how systems are deployed, monitored, and maintained.
+I learn by building real systems, debugging failures, testing changes, documenting decisions, and understanding how software behaves beyond localhost.
 
-* 🎓 BCA Student — Tribhuvan University
-* 💻 Software Engineering × DevOps
-* 🐧 Linux & Ubuntu
-* 🐳 Docker & Docker Compose
-* 🔄 GitHub Actions & CI/CD
-* ☁️ AWS & Terraform fundamentals
-* ☸️ Kubernetes fundamentals
-* 🔐 DevSecOps & security automation
-* 🚀 Building practical engineering projects and production-oriented systems
+Current direction: DevOps • Cloud Engineering • Platform Engineering • DevSecOps
 
-I prefer **learning by building, testing, documenting, and verifying** rather than relying only on tutorials.
+🔧 What I Work With
 
----
+Software Engineering
 
-## 🛠️ Technology Stack
+TypeScript JavaScript React Node.js Express Electron
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform,aws,git,github,githubactions,nginx,nodejs,react,typescript,javascript,mongodb,postgresql,vscode" />
-</p>
+DevOps & Infrastructure
 
-### Engineering Focus
+Linux Bash Docker Docker Compose Git GitHub Actions Nginx
 
-| Area                     | Technologies                                           |
-| ------------------------ | ------------------------------------------------------ |
-| **Software Engineering** | TypeScript, JavaScript, React, Node.js, Express        |
-| **DevOps**               | Linux, Docker, Docker Compose, CI/CD                   |
-| **Cloud**                | AWS fundamentals, Vercel                               |
-| **Infrastructure**       | Terraform fundamentals, Nginx                          |
-| **Containers**           | Docker, Kubernetes fundamentals                        |
-| **Database**             | PostgreSQL, MongoDB                                    |
-| **Automation**           | Bash, GitHub Actions                                   |
-| **Security**             | DevSecOps fundamentals, security-aware CI/CD           |
-| **Monitoring**           | System monitoring, logging, observability fundamentals |
+Cloud & Infrastructure as Code
 
----
+AWS Fundamentals Terraform Fundamentals Vercel
 
-## 🚀 Selected Projects
+Databases
 
-### 🏥 BiomedicalEquipments ERP
+PostgreSQL Prisma MongoDB
 
-Offline-first desktop ERP system designed for a medical equipment business.
+Reliability & Security
 
-**Focus:** Electron, React, TypeScript, PostgreSQL, Prisma, accounting workflows, inventory, billing, batch tracking, and deployment reliability.
+Testing CI/CD Monitoring Logging DevSecOps Fundamentals
 
----
+Currently Exploring
 
-### 📈 Growth OS
+Kubernetes Prometheus Grafana Helm AWS Terraform Infrastructure Security
 
-AI-assisted SEO and organic growth intelligence platform.
+🚀 Selected Engineering Work
 
-**Focus:** website intelligence, crawling, technical SEO analysis, opportunity detection, strategy generation, execution workflows, and measurement.
+🏥 BiomedicalEquipments ERP
 
----
+A real-world offline-first desktop ERP system built around business operations including sales, purchasing, inventory, accounting, VAT, invoicing, reporting, returns, batch management, and backup/restore.
 
-### 🏠 LookRooms
+Engineering focus
 
-Full-stack rental accommodation platform.
+React + TypeScript application development
 
-**Focus:** React, Node.js, authentication, role-based access, filtering, and application architecture.
+Electron desktop architecture
 
----
+PostgreSQL + Prisma
 
-### 🖥️ Server Health Monitor
+Database integrity and migrations
 
-Linux terminal monitoring toolkit for system diagnostics and resource monitoring.
+Testing and regression validation
 
-**Focus:** Bash, Linux `/proc`, system metrics, process inspection, and automation.
+Windows application packaging and deployment
 
----
+Backup and restore workflows
 
-### 📄 ResumeBanau
+Troubleshooting application, database, PDF, printing, and deployment issues
 
-Resume-building platform focused on structured, ATS-oriented resume creation.
+Git-based development and release workflows
 
-**Focus:** frontend engineering, document generation, structured resume data, and usability.
+This project gave me practical exposure to the part of software engineering that happens after the feature is written: testing, deployment, reliability, recovery, and troubleshooting.
 
----
+📈 Growth OS
 
-## 🔧 DevOps & Infrastructure Practice
+An AI-assisted SEO and organic-growth intelligence platform designed around website intelligence, technical analysis, opportunity detection, strategy, execution, and measurement.
 
-I'm actively building practical experience with:
+Engineering focus
 
-```text
+Website crawling and analysis
+
+Technical SEO intelligence
+
+Opportunity detection
+
+Strategy and execution workflows
+
+Measurement and learning
+
+Service-oriented application architecture
+
+Automated testing
+
+🖥️ Server Health Monitor
+
+A Linux terminal monitoring project focused on understanding system-level diagnostics rather than hiding everything behind a GUI.
+
+Focus
+
+Bash
+
+Linux /proc
+
+CPU and memory information
+
+Process inspection
+
+System diagnostics
+
+CLI automation
+
+🏠 LookRooms
+
+A full-stack rental accommodation platform built around practical application architecture.
+
+Focus
+
+React
+
+Node.js
+
+Authentication
+
+Role-based access
+
+Filtering
+
+API-driven application design
+
+📄 ResumeBanau
+
+A structured resume-building platform focused on creating professional, ATS-oriented resumes.
+
+Focus
+
+React
+
+Node.js
+
+Resume data modeling
+
+Document generation
+
+User-focused interface design
+
+⚙️ My Engineering Workflow
+
+Understand
+    ↓
+Design
+    ↓
+Build
+    ↓
+Test
+    ↓
+Automate
+    ↓
+Deploy
+    ↓
+Monitor
+    ↓
+Debug
+    ↓
+Improve
+
+I'm especially interested in the space between “the application works” and “the system can be reliably delivered and operated.”
+
+🐧 DevOps Learning Path
+
 Linux
-   ↓
+  ↓
 Git & GitHub
-   ↓
+  ↓
 Docker
-   ↓
+  ↓
 CI/CD
-   ↓
-AWS / Terraform
-   ↓
+  ↓
+Cloud
+  ↓
+Infrastructure as Code
+  ↓
 Kubernetes
-   ↓
+  ↓
 Monitoring & Observability
-   ↓
+  ↓
 DevSecOps
-```
 
-The goal is to understand the **complete software delivery lifecycle** — from writing code to building, testing, containerizing, deploying, monitoring, and improving systems.
+I'm building this knowledge through practical projects and hands-on experimentation rather than treating tools as a checklist.
 
----
+🧪 What I'm Interested In
 
-## 🌱 Currently Learning
+Linux & system administration
 
-* ☸️ Kubernetes
-* 🏗️ Terraform
-* ☁️ AWS
-* 🔄 Advanced CI/CD
-* 📦 Docker & container orchestration
-* 📊 Prometheus & Grafana
-* 🔐 DevSecOps practices
-* 🛡️ Infrastructure security
-* ⚙️ Linux automation
-* 📈 Observability & reliability engineering
+Containerized applications
 
----
+CI/CD automation
 
-## 🧪 Engineering Approach
+Cloud infrastructure
 
-I care about:
+Infrastructure as Code
 
-* **Evidence over assumptions**
-* **Automation over repetitive manual work**
-* **Security throughout the development lifecycle**
-* **Simple and maintainable architecture**
-* **Testing before declaring something complete**
-* **Documentation that explains how systems actually work**
-* **Continuous learning through real projects**
+Kubernetes
 
----
+Monitoring & observability
 
-## 📊 GitHub Activity
+Secure software delivery
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sudipr0&show_icons=true&hide_border=true&theme=transparent" />
-</p>
+Deployment reliability
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudipr0&hide_border=true&theme=transparent" />
-</p>
+Platform engineering
 
----
+Site Reliability Engineering
 
-## 📫 Connect
+📚 Education
 
-🌐 **Portfolio:** https://sudipsherpa.com.np
+Bachelor of Computer Applications (BCA)
+Tribhuvan University — G.P. Koirala College
+Kathmandu, Nepal
 
-💼 **LinkedIn:** https://www.linkedin.com/in/sudip-sherpa-a83b4a282/
+🤝 Open To
 
-📧 **Email:** [sudipsherpa333@gmail.com](mailto:sudipsherpa333@gmail.com)
+I'm interested in opportunities where I can contribute while continuing to grow in:
 
-🐙 **GitHub:** https://github.com/sudipr0
+DevOps • Cloud Engineering • Platform Engineering • DevSecOps • Software Engineering
 
-📱 **WhatsApp:** https://wa.me/9779764596966
+Especially environments where I can work with real systems, automation, deployment, troubleshooting, and engineering practices.
 
----
+🔗 Connect
+
+🌐 Portfolio
+https://sudipsherpa.com.np
+
+💼 LinkedIn
+https://www.linkedin.com/in/sudip-sherpa-a83b4a282/
+
+📧 Email
+sudipsherpa333@gmail.com
+
+🐙 GitHub
+https://github.com/sudipr0
 
 <p align="center">
-Built with curiosity, Linux, code, and continuous learning.
+<strong>Build. Test. Deploy. Learn. Repeat.</strong>
 </p>
