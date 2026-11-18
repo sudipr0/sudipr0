@@ -11,8 +11,8 @@ Linux, Docker, CI/CD, and cloud. I document what breaks and how I fixed it.
 |---|---|---|---|
 | **TrailComand** | Multi-tenant SaaS for trekking agencies: bookings, field ops, disruption recovery | React, Node, Prisma, PostgreSQL | [Repo](https://github.com/sudipr0/TRIPCOMAND) |
 | **AI Resume Builder** | ATS-focused resume builder and analyzer | React, Node, MongoDB, Docker | [Repo](https://github.com/sudipr0/AI-Resume-Builder-Analyzer) |
-| **BiomedicalEquipments ERP** | Offline-first desktop ERP (sales, inventory, VAT, backup/restore). Private client project | Electron, React, TypeScript, PostgreSQL | Screenshots / write-up: ADD LINK |
-| **Server Health Monitor** | Linux CLI diagnostics reading /proc | Bash | ADD LINK |
+| **BiomedicalEquipments ERP** | Offline-first desktop ERP (sales, inventory, VAT, backup/restore). Private client project | Electron, React, TypeScript, PostgreSQL |
+| **Server Health Monitor** | Linux CLI diagnostics reading /proc | Bash |
 
 ## 🛠️ Stack
 **Build:** TypeScript · React · Node.js · PostgreSQL · MongoDB · Prisma
